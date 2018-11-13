@@ -1,0 +1,29 @@
+body{
+    background-image: url("http://www.firtka.if.ua/media/cache/blog_thumb/data/blog/213990/faa4a2fb52c7398ba821bf169878358e.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#blockinf{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    border-bottom-right-radius: 50px ;
+    width: 300px;
+    color: #4fadff;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size:  20px;
+    text-align:  left;
+}
+#icon {
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
